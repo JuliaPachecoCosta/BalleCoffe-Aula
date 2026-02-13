@@ -378,6 +378,31 @@ footer {
       margin-left: -100px;
     }
 
+     .container {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .imagens {
+        column-count: 1;
+        column-gap: 0.5rem;
+    }
+
+    .receitas {
+        padding-top: 0px;
+    }
+
+    .button {
+        padding-bottom: 0px;
+    }
+
+    article {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px; /* Adiciona um espaçamento inferior entre os cards */
+    }
+
+}
    
-  }
+
     
